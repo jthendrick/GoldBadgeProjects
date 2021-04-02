@@ -1,0 +1,6 @@
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ClaimsClassLibrary\bin\Debug\ClaimsClassLibrary.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ClaimsClassLibrary\bin\Debug\ClaimsClassLibrary.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.pdb

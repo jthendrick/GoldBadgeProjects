@@ -1,0 +1,10 @@
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe.config
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\bin\Debug\CafeConsoleApp.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\obj\Debug\CafeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\obj\Debug\CafeConsoleApp.exe
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\obj\Debug\CafeConsoleApp.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\bin\Debug\CafeClassLibrary.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\bin\Debug\CafeClassLibrary.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CopyComplete

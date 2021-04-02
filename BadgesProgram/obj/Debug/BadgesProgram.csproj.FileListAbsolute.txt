@@ -1,0 +1,10 @@
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\obj\Debug\BadgesProgram.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\obj\Debug\BadgesProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\bin\Debug\BadgesProgram.exe.config
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\bin\Debug\BadgesProgram.exe
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\bin\Debug\BadgesProgram.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\bin\Debug\BadgesLibrary.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\bin\Debug\BadgesLibrary.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\obj\Debug\BadgesProgram.csproj.CopyComplete
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\obj\Debug\BadgesProgram.exe
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\BadgesProgram\obj\Debug\BadgesProgram.pdb

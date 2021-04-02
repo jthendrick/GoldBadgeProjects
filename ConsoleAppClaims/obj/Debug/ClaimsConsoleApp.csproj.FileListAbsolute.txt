@@ -1,0 +1,17 @@
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ConsoleAppClaims.exe.config
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ConsoleAppClaims.exe
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ConsoleAppClaims.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ClaimsClassLibrary.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ClaimsUnitTest.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ClaimsClassLibrary.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\ClaimsUnitTest.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\obj\Debug\ClaimsConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\obj\Debug\ClaimsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\obj\Debug\ClaimsConsoleApp.csproj.CopyComplete
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\obj\Debug\ConsoleAppClaims.exe
+C:\Users\Jon\Documents\ElevenFiftyProjects\GoldBadgeProject\ConsoleAppClaims\obj\Debug\ConsoleAppClaims.pdb
